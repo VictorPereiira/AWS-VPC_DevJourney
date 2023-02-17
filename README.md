@@ -39,6 +39,17 @@
 
 ## Content
 
+### Box
+- Doc
+   - [AWS VPC](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html)
+- Youtube
+   - [O que é VPC na Nuvem da AWS?](https://youtu.be/6TNS3E86Zzk?t=59)
+   - [Como funciona "Rede/Network"](https://youtu.be/6TNS3E86Zzk?t=59)
+ 
+
+- Prerequisites
+    - AWS | Redes |  IP | sub-redes | Roteamento | Segurança
+
 ### What its?
 
 1. What is the difference between `x` and `y` ?
